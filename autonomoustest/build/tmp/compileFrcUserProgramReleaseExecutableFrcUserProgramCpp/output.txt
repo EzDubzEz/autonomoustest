@@ -1,0 +1,6 @@
+See file:///C:/Users/tlwte/Desktop/AutoTest/autonomoustest/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Autonomous.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/tlwte/Desktop/AutoTest/autonomoustest/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
