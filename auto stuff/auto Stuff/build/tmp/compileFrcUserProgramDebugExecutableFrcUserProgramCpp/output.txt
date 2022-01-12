@@ -1,0 +1,4 @@
+See file:///C:/Users/Administrator/Desktop/auto%20stuff/auto%20Stuff/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Autonomous.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/Administrator/Desktop/auto%20stuff/auto%20Stuff/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
